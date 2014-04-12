@@ -8,4 +8,12 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.clintonmedbery.lowcountrysoul.MainActivity$PlaceholderFragment" >
 
+<<<<<<< HEAD
+=======
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+>>>>>>> 4368bab6d3c31cdf00a20c81ff3800e6612a80ad
 </RelativeLayout>

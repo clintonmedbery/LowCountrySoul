@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
@@ -20,3 +21,13 @@
         android:src="@drawable/mainlogo" />
 
 </RelativeLayout>
+=======
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.clintonmedbery.lowcountrysoul.MainActivity"
+    tools:ignore="MergeRootFrame" />
+
+>>>>>>> 4368bab6d3c31cdf00a20c81ff3800e6612a80ad

@@ -4,7 +4,10 @@
     <string name="app_name">LowCountrySoul</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="logo_desc">Main Logo</string>
     <string name="title_activity_main_page">MainPage</string>
+=======
+>>>>>>> 4368bab6d3c31cdf00a20c81ff3800e6612a80ad
 
 </resources>
